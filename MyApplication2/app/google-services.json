@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "542000650841",
+    "firebase_url": "https://budgettracker-5c6af-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "budgettracker-5c6af",
+    "storage_bucket": "budgettracker-5c6af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542000650841:android:a6f443bb6ffb476d3aaf48",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8x4dBMKbrxufCvRyLl6BIBM3-Oa115iY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
